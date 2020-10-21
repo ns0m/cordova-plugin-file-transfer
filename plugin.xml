@@ -20,14 +20,14 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-file-transfer"
+    id="cordova-plugin-ns0m-file-transfer"
     version="2.0.0-dev">
     <name>File Transfer</name>
     <description>Cordova File Transfer Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,file,transfer</keywords>
-    <repo>https://github.com/apache/cordova-plugin-file-transfer</repo>
-    <issue>https://github.com/apache/cordova-plugin-file-transfer/issues</issue>
+    <repo>https://github.com/ns0m/cordova-plugin-ns0m-file-transfer</repo>
+    <issue>https://github.com/ns0m/cordova-plugin-ns0m-file-transfer/issues</issue>
 
     <dependency id="cordova-plugin-file" version=">=5.0.0" />
 
