@@ -1,3 +1,10 @@
+### Publication-only version of the [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer) package with some early fixes. [![Latest Published Version](https://img.shields.io/npm/v/cordova-plugin-ns0m-file-transfer)](https://www.npmjs.com/package/cordova-plugin-ns0m-file-transfer)
+```
+cordova plugin add cordova-plugin-ns0m-file-transfer
+```
+
+---
+
 ---
 title: File Transfer
 description: Upload and download files.

@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-file-transfer",
+  "name": "cordova-plugin-ns0m-file-transfer",
   "version": "2.0.0-dev",
   "description": "Cordova File Transfer Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-file-transfer",
+    "id": "cordova-plugin-ns0m-file-transfer",
     "platforms": [
       "android",
       "ios",
@@ -16,8 +16,8 @@
     "test": "npm run lint",
     "lint": "eslint ."
   },
-  "repository": "github:apache/cordova-plugin-file-transfer",
-  "bugs": "https://github.com/apache/cordova-plugin-file-transfer/issues",
+  "repository": "github:ns0m/cordova-plugin-ns0m-file-transfer",
+  "bugs": "https://github.com/ns0m/cordova-plugin-ns0m-file-transfer/issues",
   "keywords": [
     "cordova",
     "file",
