@@ -4,8 +4,6 @@ cordova plugin add cordova-plugin-ns0m-file-transfer
 ```
 
 ---
-
----
 title: File Transfer
 description: Upload and download files.
 ---
